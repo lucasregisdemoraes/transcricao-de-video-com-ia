@@ -12,6 +12,8 @@
     <img src="./public/preview.jpg">
 </p>
 
+## Como executar esse projeto
+
 1. Faça o clone desse repositório
 2. Acesse a pasta do projeto
 3. Instale o projeto com o comando `npm install`
