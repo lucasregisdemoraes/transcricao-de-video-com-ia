@@ -15,7 +15,7 @@
 1. Faça o clone desse repositório
 2. Acesse a pasta do projeto
 3. Instale o projeto com o comando `npm install`
-4. Utilize um dos comandos 
+4. Em um terminal, utilize um dos comandos 
 ```bash
 npm run dev
 # or
@@ -23,7 +23,8 @@ yarn dev
 # or
 pnpm dev
 ```
-5. No seu navegador abra `http://localhost:5173` ou o local sugerido no terminal para ver o resultado
+5. Em outro terminal, utilize o comando `npm run server`, para iniciar servidor
+6. No seu navegador abra `http://localhost:5173` ou o local sugerido no terminal para ver o resultado
 
 
 ## Tecnologias
